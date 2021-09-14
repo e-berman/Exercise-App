@@ -1,4 +1,4 @@
-# Exercise App Front-end
+# Exercise App React Front-end
 
 ## Available Scripts
 
