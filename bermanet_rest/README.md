@@ -1,7 +1,13 @@
 # REST API for Exercise-App
 
-## Required Dependency
+## Required Dependencies
 
-### npm start
+In the project directory, you can run:
+
+### `npm install`
+
+Installs the npm dependency (if needed).
+
+### `npm start`
 
 MongoDB database runs on port 27017
