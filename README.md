@@ -12,11 +12,11 @@ MERN stack app that acts as a simple exercise tracker.
 
 React
 
-npm i react-icons@4.2.0
-npm i react-router-dom@5.2.0
+- npm i react-icons@4.2.0
+- npm i react-router-dom@5.2.0
 
 REST API
 
-npm i mongoose@5.13.7
-npm i express@4.17.1
-npm i nodemon@2.0.12
+- npm i mongoose@5.13.7
+- npm i express@4.17.1
+- npm i nodemon@2.0.12
